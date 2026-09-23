@@ -37,4 +37,3 @@ qa-tp-unit-tests/
 ├── tests/
 │   └── test_ejercicios.py    # Suite de pruebas unitarias con pytest
 ├── README.md                 # Documentación técnica del proyecto
-└── requirements.txt          # Dependencias del proyecto
